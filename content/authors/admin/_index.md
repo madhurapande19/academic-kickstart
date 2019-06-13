@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Madhura Pande
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Indian Institue of Technology, Madras
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests are in the area of Deep Learning and AI.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Natural Language Processing
+- Reinforcement Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS By Research
+    institution: Indian Institute of Technology, Madras
+    year: (Pursuing)
+  - course: B.Tech in Information Technology
+    institution: Indira Gandhi Institute of Technology (Indraprastha University), Delhi
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,16 +41,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:cs17s031@smail.iitm.ac.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/madhurapande19
+- icon: linkedin
+  icon_pack: fab
+  link: https://in.linkedin.com/in/madhura-pande-939a81a6
+- icon: quora
+  icon_pack: fab
+  link: https://www.quora.com/profile/Madhura-Pande-1
+- icon: blogger
+  icon_pack: fab
+  link: http://my-quasaric-expression.blogspot.com/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a student currently pursuing MS by research at IIT Madras, under the guidance of Dr. Mitesh M. Khapra and Dr. Pratyush Kumar from July 2018. Prior to this, I was working in Intuit (Bengaluru) as Software Engineer in [Mint](http://www.mint.com) backend team. My research interests lie under the uber-umbrella of Artifical Intelligence spanning across Natural Language Processing, Deep Learning and Reinforcement Learning.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Apart from this, I am fond of reading and writing and especially enjoy techno-philosophical content. I define techno-philosophy as weaving of fascinating technical principles, concepts and insights into relatable 
+and ingenious philosophies. An example would be this quote, “Life is like Quicksort, it will place you at your right position in some pass. Just be patient till you get to be the pivot.”  This was written by my undergrad version back then and since that time I have been trying to improve this skill with more maturity and depth. Additionally, I am interested in Music, especially Indian Classical form.
