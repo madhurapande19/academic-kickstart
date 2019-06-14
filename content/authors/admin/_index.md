@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cs17s031@smail.iitm.ac.in'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:cs17s031@cse.iitm.ac.in'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/madhurapande19
